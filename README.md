@@ -24,4 +24,5 @@
 > Improved my storytelling and presentation skills for conveying complex insights effectively.
 > Provided actionable recommendations for strategic decision-making in the EV launch process.
 
-[!PowerBI Service Dashboard] (https://app.powerbi.com/groups/me/reports/ecc473af-18cd-4863-ba8e-6a2f48069468/91df917d064b72432b0b?experience=power-bi)
+> [!PowerBI Service Dashboard]
+> (https://app.powerbi.com/groups/me/reports/ecc473af-18cd-4863-ba8e-6a2f48069468/91df917d064b72432b0b?experience=power-bi)
